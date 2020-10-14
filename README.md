@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img align="centre" alt="Ahmed Hamed Aly" width="100%" src="images\cover.png" />][website]
+[<img align="centre" alt="Ahmed Hamed Aly" width="100%" src="images\banner.gif" />][website]
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedhamedaly)](https://ahmedhamedaly.com)
 
