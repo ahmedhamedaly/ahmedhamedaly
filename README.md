@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ahmedhamedaly)](https://ahmedhamedaly.com)
+[<img align="centre" alt="Ahmed Hamed Aly" width="100%" src="images\cover.png" />][website]
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedhamedaly)](https://ahmedhamedaly.com)
+
+<!--Links-->
+[website]: https://ahmedhamedaly.com/
+[linkedIn]: https://www.linkedin.com/in/ahmedhamedaly/
