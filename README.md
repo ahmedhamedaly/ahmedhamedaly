@@ -18,14 +18,17 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Atom" width="44px" src="images\atom.svg" />][website]
-[<img align="left" alt="Java" width="34px" src="images\java.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="34px" src="images\react.png" />][website]
-[<img align="left" alt="P5.js" width="26px" src="images\p5.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="jetbrains" width="44px" src="images\jetbrainsjetbrains.svg" />][website]
+[<img align="left" alt="c" width="44px" src="images\c.svg" />][website]
+[<img align="left" alt="haskell" width="44px" src="images\haskell.svg" />][website]
+[<img align="left" alt="heroku" width="44px" src="images\heroku.svg" />][website]
+[<img align="left" alt="github" width="44px" src="images\github.svg" />][website]
+[<img align="left" alt="mysql" width="44px" src="images\mysql.svg" />][website]
+[<img align="left" alt="trello" width="44px" src="images\trello.svg" />][website]
+[<img align="left" alt="ubuntu" width="44px" src="images\ubuntu.svg" />][website]
+[<img align="left" alt="python" width="44px" src="images\python.svg" />][website]
+[<img align="left" alt="java" width="44px" src="images\java.svg" />][website]
+[<img align="left" alt="slack" width="44px" src="images\slack.svg" />][website]
 
 <br/>
 <br/>
