@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Atom" width="44px" src="images\atom.svg" />][website]
-[<img align="left" alt="jetbrains" width="44px" src="images\jetbrainsjetbrains.svg" />][website]
+[<img align="left" alt="jetbrains" width="44px" src="images\jetbrains.svg" />][website]
 [<img align="left" alt="c" width="44px" src="images\c.svg" />][website]
 [<img align="left" alt="haskell" width="44px" src="images\haskell.svg" />][website]
 [<img align="left" alt="heroku" width="44px" src="images\heroku.svg" />][website]
