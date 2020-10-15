@@ -4,6 +4,7 @@
 - 🔭 I'm an Integrated Computer Science Student at Trinity College Dublin
 - 💬 I'm currently working on landing an Internship this year
 - 🤔 I enjoy coding, swimming and coding again
+- 📈 I'm currently on track to achieve 1.1 Masters
 - 🌱 I’m currently learning Haskell (and everything CS related)
 - 📫 You can reach me on my socials below
 
