@@ -34,7 +34,7 @@ class About_Me:
             'Hiking 🚶🏽‍♀️'
         ]
 
-    
+
     def goal():
         return 'Contribute to open source projects.'
 
