@@ -3,7 +3,7 @@
 ``` python
 import ahmedhamedaly
 
-class About_Me:
+class AboutMe:
 
     def __init__(self, name, email, website, linkedin):
         self.name = 'Ahmed Hamed Aly'
@@ -12,7 +12,7 @@ class About_Me:
         self.linkedin = 'https://linkedin.com/in/ahmedhamedaly'
 
 
-    def education():
+    def education(self):
         return {
             'course': 'Integrated Computer Science',
             'college': 'Trinity College Dublin',
@@ -25,17 +25,17 @@ class About_Me:
         }
 
 
-    def hobbies():
+    def hobbies(self):
         return [
             'Coding 💻',
             'Swimming 🏊‍♀️',
             'Cooking 👩‍🍳',
             'Gym 💪🏽',
-            'Hiking 🚶🏽‍♀️'
+            'Blockchain 📃'
         ]
 
 
-    def goal():
+    def goal(self):
         return 'Contribute to open source projects.'
 
 ```
