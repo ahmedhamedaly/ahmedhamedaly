@@ -17,10 +17,9 @@ class AboutMe:
             'course': 'Integrated Computer Science',
             'college': 'Trinity College Dublin',
             'year': [
-                3,
-                'Junior Sophister'
+                'Graduated'
             ],
-            'graduation': 'June 2023',
+            'graduation': 'June 2022',
             'grade': 1.1
         }
 
