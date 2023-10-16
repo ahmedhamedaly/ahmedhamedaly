@@ -23,7 +23,7 @@ class AboutMe:
     def hobbies(self) -> list:
         return [
             'Coding 💻',
-            'Swimming 🏊‍♀️',
+            'Chess ♟️',
             'Cooking 👩‍🍳',
             'Climbing 🪨',
             'Gym 💪🏽',
