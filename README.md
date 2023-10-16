@@ -5,38 +5,33 @@ import ahmedhamedaly
 
 class AboutMe:
 
-    def __init__(self, name, email, website, linkedin):
-        self.name = 'Ahmed Hamed Aly'
-        self.email = 'hamedala@tcd.ie'
-        self.website = 'https://ahmedhamedaly.com'
-        self.linkedin = 'https://linkedin.com/in/ahmedhamedaly'
+    def __init__(self, name: str, email: str, website: str, linkedin: str):
+        self.name = name
+        self.email = email
+        self.website = website
+        self.linkedin = linkedin
 
-
-    def education(self):
+    def education(self) -> dict:
         return {
             'course': 'Integrated Computer Science',
             'college': 'Trinity College Dublin',
-            'year': [
-                'Graduated'
-            ],
+            'year': 'Graduated',
             'graduation': 'June 2022',
             'grade': 1.1
         }
 
-
-    def hobbies(self):
+    def hobbies(self) -> list:
         return [
             'Coding 💻',
             'Swimming 🏊‍♀️',
             'Cooking 👩‍🍳',
+            'Climbing 🪨',
             'Gym 💪🏽',
             'Blockchain 📃'
         ]
 
-
-    def goal(self):
+    def goal(self) -> str:
         return 'Contribute to open source projects.'
-
 ```
 
 <!--Links-->
